@@ -1,5 +1,6 @@
 package com.example.study;
 
+import com.example.study.day9.User;
 import com.example.study.exception.InsufficientStockException;
 import com.example.study.exception.ProductNotFoundException;
 
@@ -190,6 +191,14 @@ public class Main {
         // Day8
 //        throw new ProductNotFoundException("PRODUCT_NOT_FOUND", "상품을 찾을 수 없습니다.");
 //        throw new InsufficientStockException("INSUFFICIENT_STOCK", "재고가 부족합니다.");
+
+        // Day9
+        User user1 = new User("Kota");
+        User user2 = user1;
+
+        user1.printName();
+//        System.out.println(user1 == user2);
+        user1 = null;
 
 
     }
