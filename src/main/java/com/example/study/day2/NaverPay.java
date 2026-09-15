@@ -1,4 +1,4 @@
-package com.example.study;
+package com.example.study.day2;
 
 public class NaverPay implements Payment {
     @Override

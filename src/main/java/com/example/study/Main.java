@@ -1,15 +1,6 @@
 package com.example.study;
 
 import com.example.study.day9.User;
-import com.example.study.exception.InsufficientStockException;
-import com.example.study.exception.ProductNotFoundException;
-
-import java.util.*;
-import java.util.function.Consumer;
-import java.util.function.Function;
-import java.util.function.Predicate;
-import java.util.function.Supplier;
-import java.util.stream.Collectors;
 
 public class Main {
 

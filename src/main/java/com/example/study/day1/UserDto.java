@@ -1,4 +1,4 @@
-package com.example.study;
+package com.example.study.day1;
 
 public record UserDto(
         Long id,

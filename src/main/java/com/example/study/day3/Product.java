@@ -1,4 +1,4 @@
-package com.example.study;
+package com.example.study.day3;
 
 public class Product {
 

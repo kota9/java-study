@@ -1,4 +1,4 @@
-package com.example.study.exception;
+package com.example.study.day8;
 
 public class ProductNotFoundException extends BusinessException {
 

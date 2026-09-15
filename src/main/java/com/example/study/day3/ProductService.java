@@ -1,7 +1,7 @@
-package com.example.study;
+package com.example.study.day3;
 
-import com.example.study.exception.InsufficientStockException;
-import com.example.study.exception.ProductNotFoundException;
+import com.example.study.day8.InsufficientStockException;
+import com.example.study.day8.ProductNotFoundException;
 
 public class ProductService {
 

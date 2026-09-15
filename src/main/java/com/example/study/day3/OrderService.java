@@ -1,4 +1,6 @@
-package com.example.study;
+package com.example.study.day3;
+
+import com.example.study.day2.Payment;
 
 public class OrderService {
 
