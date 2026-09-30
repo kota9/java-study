@@ -13,3 +13,5 @@ Java Backend Developer를 목표로 진행하는 Java 학습 기록
 - Day 7 - Stream API ⭐⭐⭐
 - Day 8 - Exception
 - Day 9 - JVM Memory ⭐⭐⭐
+- Day 10 — Garbage Collection ⭐⭐⭐
+- Day 11 — Thread ⭐⭐⭐
